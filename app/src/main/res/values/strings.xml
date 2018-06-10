@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fifa Champ App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_players">Relação de Palyers</string>
+    <string name="title_activity_rouns">Relação de Rodadas</string>
+    <string name="title_activity_player_cadastro">Cadastro de Player</string>
+    <string name="title_activity_team">Relação de Times</string>
+    <string name="title_activity_team_cadastro">Cadastro de Time</string>
+    <string name="title_activity_jogador_cadastro">Cadastro de Jogador</string>
+    <string name="title_activity_geracao_rodada">Geração da Rodada</string>
+    <string name="title_activity_partidas">Relação de Partidas</string>
+    <string name="title_activity_partida_cadastro">Cadastro de Partida</string>
+    <string name="title_activity_gols_cadastro">Cadastro de Gols</string>
+    <string name="title_activity_ranking">Ranking Geral</string>
+    <string name="title_activity_main">FIFA Champ</string>
+    <string name="navigation_drawer_open">Abrindo painel de navegação</string>
+    <string name="navigation_drawer_close">Fechando painel de navegação</string>
+    <string name="nav_header_title">FIFA Champ</string>
+    <string name="nav_header_subtitle">by tx.william@gmail.com</string>
+    <string name="nav_header_desc">FIFA Champ</string>
+</resources>

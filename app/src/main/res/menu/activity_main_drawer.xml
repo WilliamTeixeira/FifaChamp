@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Cadastro">
+        <menu>
+            <item
+                android:id="@+id/nav_player"
+                android:icon="@drawable/ic_search_black_24dp"
+                android:title="Players" />
+            <item
+                android:id="@+id/nav_team"
+                android:icon="@drawable/ic_search_black_24dp"
+                android:title="Times" />
+        </menu>
+    </item>
+
+    <item android:title="Estatistica">
+        <menu>
+            <item
+                android:id="@+id/nav_ranking"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Ranking" />
+        </menu>
+    </item>
+    <item android:title="Limpeza">
+        <menu>
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@android:drawable/ic_menu_delete"
+                android:title="Reset" />
+        </menu>
+    </item>
+
+</menu>
